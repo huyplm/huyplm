@@ -33,9 +33,20 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white)
 
-#### IDE & Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+## IDE & Tools
+
+Here is a list of the tools and IDEs that are recommended for development:
+
+1. **VS Code** - A powerful, open-source code editor that is highly customizable and supports many programming languages.
+2. **RStudio** - An IDE specifically designed for R programming, providing tools for statistical computing and data analysis.
+3. **IntelliJ IDEA** - A feature-rich IDE for Java development that also supports various other languages.
+4. **Maven** - A build automation tool for Java projects focusing on project management.
+5. **Gradle** - A versatile and modern build automation tool that supports multiple languages and platforms.
+6. **Postman** - A tool for API development that simplifies testing and documenting APIs.
+7. **MySQL** - A widely used open-source relational database management system.
+8. **PostgreSQL** - An advanced open-source relational database with a strong reputation for reliability and performance.
+9. **Git** - A version control system for tracking changes in source code during software development.
+10. **Docker** - A platform for developing, shipping, and running applications in containers for seamless deployment.
 
 ---
 
