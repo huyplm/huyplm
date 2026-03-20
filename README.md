@@ -33,20 +33,18 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## IDE & Tools
+#### IDE & Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-Here is a list of the tools and IDEs that are recommended for development:
-
-1. **VS Code** - A powerful, open-source code editor that is highly customizable and supports many programming languages.
-2. **RStudio** - An IDE specifically designed for R programming, providing tools for statistical computing and data analysis.
-3. **IntelliJ IDEA** - A feature-rich IDE for Java development that also supports various other languages.
-4. **Maven** - A build automation tool for Java projects focusing on project management.
-5. **Gradle** - A versatile and modern build automation tool that supports multiple languages and platforms.
-6. **Postman** - A tool for API development that simplifies testing and documenting APIs.
-7. **MySQL** - A widely used open-source relational database management system.
-8. **PostgreSQL** - An advanced open-source relational database with a strong reputation for reliability and performance.
-9. **Git** - A version control system for tracking changes in source code during software development.
-10. **Docker** - A platform for developing, shipping, and running applications in containers for seamless deployment.
 
 ---
 
