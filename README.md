@@ -48,13 +48,14 @@
 ### 🧩 Profile Summary Cards
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huyplm&theme=tokyonight" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=your-username&theme=tokyonight" alt="Stats Card" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=your-username&theme=tokyonight&utcOffset=-6" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huyplm&theme=tokyonight" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huyplm&theme=tokyonight&utcOffset=-6" alt="Productive Time" />
 </p>
+
 
 ---
 
