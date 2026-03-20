@@ -39,17 +39,11 @@
 
 ---
 
-### 📈 GitHub Stats
+## 💻 Latest projects (GitHub links)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
+1. **[ShopApp](https://github.com/huyplm/ShopApp)** - Java application
+2. **[AppLocker](https://github.com/huyplm/AppLocker)** - TypeScript & Dockerfile project
+3. **[Healthineer](https://github.com/huyplm/Healthineer)** - project
 
 ### 🧩 Profile Summary Cards
 
