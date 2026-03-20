@@ -69,7 +69,8 @@
 
 ### 👀 Visitors
 
-![Visitors](https://visit-count.vercel.app/api/count?id=your-username&label=Profile%20Views&color=0e75b6&icon=github)
+![Visitors](https://visit-count.vercel.app/api/count?id=huyplm&label=Profile%20Views&color=0e75b6&icon=github)
+
 
 ---
 
