@@ -54,17 +54,7 @@
 2. **[AppLocker](https://github.com/huyplm/AppLocker)** - TypeScript & Dockerfile project
 3. **[Healthineer](https://github.com/huyplm/Healthineer)** - project
 
-## 🛠️ Healthineer Tech Stack
 
-| Layer | Technology |
-|-------|-----------|
-| **Frontend** | React 19, TypeScript, Vite, Material UI, TanStack React Query, React Router v7, React Hook Form + Zod |
-| **Backend** | Spring Boot 3.2, Java 17+, Maven Wrapper, Clean Architecture |
-| **Database** | PostgreSQL 16 (production) / H2 in-memory (local dev) |
-| **AI (LLM)** | Groq Cloud API — Llama 3.3 70B Versatile |
-| **AI (Drug Data)** | openFDA Drug Label API |
-| **Auth** | JWT (HMAC-SHA256), role-based access control |
-| **Security** | CORS, rate limiting (120 req/min), bcrypt password hashing |
 
 ### 🧩 Profile Summary Cards
 
