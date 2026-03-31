@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">👋 Hi, I'm William Pham</h1>
+<h1 align="center">👋 Hi, I'm Liam Pham</h1>
 <h3 align="center">Aspiring DevOps & Software Engineer @ University of Manitoba, Canada 🇨🇦</h3>
 
 <p align="center">
